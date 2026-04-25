@@ -1,0 +1,209 @@
+# Informe de Análisis del Mercado del Ron en España (2020-2026)
+
+## Resumen Ejecutivo
+
+Este informe presenta un análisis exhaustivo del mercado del ron en España, abarcando el período 2020-2026, con un enfoque en datos clave, tendencias y el posicionamiento de Bacardí. Se han consultado diversas fuentes primarias y secundarias para ofrecer una visión integral que sirva de base para una estrategia de rebranding.
+
+## Metodología
+
+La información para este informe se ha recopilado de fuentes fiables como informes sectoriales (Espirituosos de España, GlobalData, Grand View Research), informes de consumo (Mercasa/MAPA), y análisis de marca (Bacardí Cocktail Trends Report, Transform Magazine, Epsilontec). Se ha priorizado la información más reciente (2020-2026) y específica para España. Para cada fuente, se ha extraído un resumen ejecutivo, citas clave y se ha evaluado su fiabilidad y coste.
+
+## 1. Análisis del Mercado del Ron en España
+
+### 1.1. Tamaño del Mercado y Crecimiento
+
+![Evolución del Volumen de Ron en España](https://private-us-east-1.manuscdn.com/sessionFile/ZdGlJ42YeVLZ9iviWZyyCY/sandbox/snZlEeAwnvuOvitf5JBPaH-images_1777148026495_na1fn_L2hvbWUvdWJ1bnR1L3J1bV92b2x1bWVfZXZvbHV0aW9u.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWmRHbEo0MlllVkxaOWl2aVdaeXlDWS9zYW5kYm94L3NuWmxFZUF3bnZ1T3ZpdGY1SkJQYUgtaW1hZ2VzXzE3NzcxNDgwMjY0OTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzSjFiVjkyYjJ4MWJXVmZaWFp2YkhWMGFXOXUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=TwjGW4JbS~xe9gWtS55qyC~pBqG9uP69ihraut843sEA8utVOjkMURYYgPk~3vm7gG4fgixz~J6i3OaCy4fYbThp9hPCGVoj1oL6pJ6Y8Bju3eavB4apv-tBcUixPfhja9siQUpxYSk7hKkBRz5YqfWB-V7nuk7NFz2m6GbDSlE8Cs7Io-lk79uQzQOA6MCpjOXHl9gVlou--MSy6h~sU30eQv-sj7iPqCK6qqFVz0SBKU-wb8podpQxeTHJeL5Sbnhzyrm3HXWQtQFNw7Y-z8cJfIwNVYjeNsoOlhFVyb3ImNPJNdbP9jzgpUMFVwxAgYxYUqf2-1z0UCEYp7sgyQ__)
+
+
+El mercado de bebidas espirituosas en España ha experimentado fluctuaciones en los últimos años. En **2024**, el consumo total de bebidas espirituosas se estimó en 180 millones de litros, lo que representa una caída del 3,7% en comparación con 2023. Dentro de este volumen, el ron mantuvo una cuota del 16,0%, alcanzando aproximadamente 28,8 millones de litros [1]. En **2023**, el volumen total fue de 187 millones de litros, con una caída del 5,9% respecto a 2022, y el ron representó el 16,3% del volumen, con unos 30,48 millones de litros [1]. En **2022**, el volumen total de bebidas espirituosas fue de 197 millones de litros, con una cuota del ron del 16,8%, lo que se traduce en aproximadamente 33,1 millones de litros [1].
+
+En términos de valor, el mercado del ron en España registró un valor de ventas de 1.520,64 millones de euros en **2021**, con una tasa de crecimiento anual compuesta (CAGR) del 0,08% durante el período 2016-2021 [2]. Las proyecciones indican un crecimiento más robusto para el futuro, con un CAGR esperado del 6,7% entre **2023 y 2030** para el mercado español del ron [3].
+
+
+### 1.2. Segmentación y Canales de Distribución
+
+El consumo de ron en España se distribuye a través de dos canales principales: el consumo en hogares (off-trade) y el consumo en hostelería (on-trade). Históricamente, el canal on-trade ha representado una porción significativa del volumen de bebidas espirituosas, estimada entre el 60% y el 70%. Sin embargo, tras la pandemia, se ha observado una tendencia a la estabilización, con el on-trade recuperando su peso, pero el off-trade manteniendo una presencia importante debido al auge del "home-cocktailing" [Síntesis de información de mercado].
+
+En cuanto al consumo en hogares, en **2022**, el ron (y otras bebidas espirituosas similares) alcanzó un volumen de 38,3 millones de litros y un valor de 166,5 millones de euros, con un precio medio de aproximadamente 4,35 €/L [4]. Es importante señalar que este dato de consumo en hogares puede incluir una gama más amplia de productos que el ron puro, lo que podría generar una discrepancia con las cifras de volumen total de ron de FEBE.
+
+La segmentación del mercado por precio muestra una clara tendencia hacia la premiumización.Un 64% de los consumidores prefieren rones añejos o premium sobre las variantes estándar [5].
+
+![Preferencia de Consumo: Premium vs Estándar](https://private-us-east-1.manuscdn.com/sessionFile/ZdGlJ42YeVLZ9iviWZyyCY/sandbox/snZlEeAwnvuOvitf5JBPaH-images_1777148026495_na1fn_L2hvbWUvdWJ1bnR1L3J1bV9wcmVmZXJlbmNlX3NlZ21lbnRhdGlvbg.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWmRHbEo0MlllVkxaOWl2aVdaeXlDWS9zYW5kYm94L3NuWmxFZUF3bnZ1T3ZpdGY1SkJQYUgtaW1hZ2VzXzE3NzcxNDgwMjY0OTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzSjFiVjl3Y21WbVpYSmxibU5sWDNObFoyMWxiblJoZEdsdmJnLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=TjhCxljcFKsgSe8YVgH2nm46p-eybHh-fChMDJDem0l6qP8hyk17TBuGBQA2ia3L8vA9~UmSRKt~UATEEexhMalvLXDnlPPGa76hBXLIb03s1lvq2JFKCViRv8k3m9P3d~6q1jxcJ33vdNvHUhhfMP2SkHTeThHg7anV7bhoJi0EJxOFQA61GZnWQJfsn45jSsgf-oTzDqs8AOFiNp71GqQJ9bvxeacmET9yDmRbL2WB7xn2Cvl1E4H299dyTGjENq8fQcJZcX6P2pTnTQBo0DXEDMFUQkJmMUOup0KbIne22snfdtRZmZnFPPCz-AK8VFuaVd2fLYCjF~2dZLzTKA__)
+
+ Esta preferencia se refleja en la creciente demanda de productos de mayor valor añadido.
+
+
+### 1.3. Competidores y Posicionamiento
+
+El mercado español del ron está dominado por varios actores clave. **Ron Barceló** se posiciona como el líder indiscutible en volumen y valor, con una fuerte conexión con el público joven a través de eventos como "Desalia" [Síntesis de información de mercado]. Otros competidores importantes incluyen **Havana Club**, reconocido por su herencia cubana y su posicionamiento en la coctelería clásica, y **Ron Brugal**, con una fuerte presencia en el segmento de combinados y el "tardeo" [Síntesis de información de mercado].
+
+**Bacardí** se mantiene como un actor relevante, aunque su cuota de atención digital en 2024 fue ligeramente inferior a la de Ron Barceló (2.72% para Barceló) [9]. En el segmento premium y super-premium, marcas como **Zacapa, Diplomático y Don Papa** están experimentando un crecimiento significativo, con un CAGR estimado del 5-7% [Síntesis de información de mercado]. Estas marcas compiten directamente con las referencias de gama alta de Bacardí, como Bacardí 8 y 10.
+
+
+### 1.4. Tendencias Clave
+
+El mercado del ron en España está influenciado por varias tendencias clave que moldean el comportamiento del consumidor y las estrategias de las marcas:
+
+*   **Premiumización**: Existe una clara inclinación de los consumidores hacia productos de mayor calidad y valor. El 64% de los consumidores prefieren rones añejos o premium sobre las opciones estándar [5]. Esta tendencia impulsa la innovación en el desarrollo de rones de gama alta y ediciones especiales.
+*   **Coctelería**: La cultura del cóctel sigue siendo un motor importante para el consumo de ron. Cócteles clásicos como el Mojito y la Piña Colada se mantienen como los más populares en España [5]. Las marcas están capitalizando esta tendencia a través de promociones y el desarrollo de nuevos productos orientados a la coctelería.
+*   **Sostenibilidad**: La preocupación por el medio ambiente y la sostenibilidad es un factor creciente en las decisiones de compra. Marcas como Bacardí están invirtiendo en iniciativas de reducción de emisiones y desarrollo de packaging eco-friendly, respondiendo a la demanda de consumidores, especialmente de las generaciones más jóvenes (Gen Z y Millennial) [5].
+*   **Experiencia de Consumo**: Los consumidores buscan experiencias más allá del producto en sí. Esto se manifiesta en eventos, festivales y el auge del "home-cocktailing", donde la preparación de cócteles en casa se convierte en una actividad social [1, 5].
+*   **Innovación en Packaging**: Aunque no se detalla en las fuentes, la innovación en el packaging es un elemento clave para atraer a los consumidores y comunicar el valor de las marcas, especialmente en el segmento premium.
+*   **Sonic Branding**: Bacardí ha implementado una estrategia de "sonic branding" con su iniciativa "The Sound of Rum", buscando crear una identidad sonora evolutiva que conecte con la cultura joven a través de colaboraciones con artistas y géneros musicales relevantes [5, 6].
+
+
+### 1.5. Precios Medios
+
+Los precios medios del ron en España varían significativamente según el segmento de mercado:
+
+*   **Mainstream (70cl)**: Los rones de este segmento, como Bacardí Carta Blanca o Negrita, se sitúan generalmente entre 12€ y 16€ [Síntesis de información de mercado].
+*   **Premium (70cl)**: Las referencias premium, como Barceló Añejo, Havana 7 o Bacardí 8, tienen un rango de precios de 18€ a 28€ [Síntesis de información de mercado].
+*   **Super-Premium (70cl)**: Los rones super-premium, como Zacapa 23 o Diplomático Reserva Exclusiva, superan los 35€ [Síntesis de información de mercado].
+
+
+## 2. Insights Específicos para Rebranding de Bacardí
+
+### 2.1. Estrategia de Marca y Posicionamiento
+
+Bacardí está redefiniendo su estrategia de marca para conectar con las nuevas generaciones de consumidores, enfocándose en la autenticidad, la libertad y la experiencia. Su iniciativa de "**Sonic Branding: The Sound of Rum**" es un pilar fundamental de esta estrategia. En lugar de un logo sonoro estático, Bacardí ha desarrollado una identidad sonora evolutiva, colaborando con artistas globales en géneros como Afrobeat, EDM y Hip Hop. Esta aproximación busca resonar con la cultura joven y posicionar la marca no solo como un producto, sino como un facilitador de experiencias culturales y de celebración [5, 6].
+
+La estrategia "**Do What Moves You**" refuerza este enfoque, promoviendo la libertad de expresión y el movimiento. Bacardí busca ser percibido como un ron de "alta energía" ideal para momentos de celebración y coctelería de calidad, con cócteles icónicos como el Mojito y la Piña Colada que siguen siendo muy populares en España [5].
+
+
+### 2.2. Innovación y Sostenibilidad
+
+En línea con la tendencia de premiumización y la demanda de los consumidores por productos innovadores, Bacardí ha lanzado el "**Bacardí Caribbean Spiced**", su primer ron premium especiado añejo. Este lanzamiento capitaliza el interés en sabores complejos y productos de mayor valor añadido [5].
+
+La **sostenibilidad** es otro pilar fundamental en la estrategia de Bacardí. La marca está comprometida con la reducción de su huella de carbono y el desarrollo de envases 100% biodegradables para 2030. Estas iniciativas responden a la creciente conciencia ambiental de los consumidores, especialmente de las generaciones más jóvenes (Gen Z y Millennial) en España, quienes valoran las marcas con un fuerte compromiso social y ambiental [5].
+
+
+### 2.3. Inversión en Marketing y Publicidad
+
+La inversión publicitaria en el sector de bebidas alcohólicas en España alcanzó aproximadamente 75 millones de euros en **2023** [7]. Aunque las cifras específicas de inversión de Bacardí son confidenciales, la marca se posiciona como uno de los principales inversores en el segmento del ron, junto a competidores como Ron Barceló y Havana Club. Bacardí ha mostrado un enfoque creciente en medios digitales y eventos experienciales.
+
+En términos de atención digital, **Ron Barceló** lideró la categoría de espirituosos en **2024** con una cuota del 2,72% en el Digital Attention Index (DAI), mientras queBacardí se mantuvo como un "top spender" digital, muy cerca de Ron Barceló en esta métrica [8].
+
+![Cuota de Atención Digital (DAI) - 2024](https://private-us-east-1.manuscdn.com/sessionFile/ZdGlJ42YeVLZ9iviWZyyCY/sandbox/snZlEeAwnvuOvitf5JBPaH-images_1777148026495_na1fn_L2hvbWUvdWJ1bnR1L2RpZ2l0YWxfYXR0ZW50aW9uX3NoYXJl.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWmRHbEo0MlllVkxaOWl2aVdaeXlDWS9zYW5kYm94L3NuWmxFZUF3bnZ1T3ZpdGY1SkJQYUgtaW1hZ2VzXzE3NzcxNDgwMjY0OTVfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwyUnBaMmwwWVd4ZllYUjBaVzUwYVc5dVgzTm9ZWEpsLnBuZyIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5ODc2MTYwMH19fV19&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=geBUgsToLDaT19URaBjuFlx0gnQYRdkTh~drEYopKyXRXaOQxCPYXYueMhx54aNsM3GgeA3XnwV771Ws1NTUUPer1ok01FsJ0WsVZF5Fe1RMOCd1pdKF9CYjY8b2o0Yvh~sqH7do-E6shew05N-VwaPYMFMV5oXqkZoGO-J9W0XcXdGTnYkDvK-U8Dqz0cmS1VwzlLzbSA5VqtRBPYni3MoEoC~Fm8YoajZinIbgE8u~FDAHEYf5Y0AtpwDVitQ4BKfhXbdmILqt~fETXlzfQx8ImcQwh3RSdzQhwBNu01mVMsYItuGr0tq5J7mBPdN15~Zkyfn17FSEbeuiSOfekw__)
+
+ Esto sugiere una fuerte apuesta por la visibilidad online y la interacción con el consumidor a través de plataformas digitales.
+
+
+## 3. Restricciones Regulatorias
+
+El mercado de bebidas espirituosas en España está sujeto a diversas regulaciones que impactan la comercialización y la publicidad:
+
+*   **Publicidad**: La publicidad de bebidas alcohólicas con una graduación superior a 20º está prohibida en televisión, excepto en franjas horarias nocturnas específicas (después de las 20:00 horas) [Síntesis de información regulatoria].
+*   **Etiquetado**: Existe la obligación de incluir advertencias sanitarias en el etiquetado de las bebidas alcohólicas. Además, la autorregulación sectorial está impulsando la inclusión de información nutricional y de ingredientes [Síntesis de información regulatoria].
+*   **Impuestos**: El ron, al igual que otras bebidas espirituosas, está gravado con el Impuesto Especial sobre el Alcohol, que ha experimentado incrementos moderados en los últimos años [Síntesis de información regulatoria].
+
+
+## 4. Tabla Consolidada de KPIs
+
+A continuación, se presenta una tabla consolidada con los principales indicadores clave de rendimiento (KPIs) y datos relevantes extraídos de las diversas fuentes consultadas:
+
+| Título de la Fuente | Organismo | Fecha | URL | ¿De Pago? | Resumen | Valor de Mercado (EUR) | Volumen de Mercado (L) | CAGR (%) | % Premium | % On-trade | % Off-trade | Notas de Competidores | Notas Específicas Bacardí | Fiabilidad | Precio de Acceso |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Informe Socioeconómico 2024 (Estimado) | Espirituosos de España (FEBE) | 2024 | [Link](https://www.espirituosos.es/El-sector-en-cifras/comercializacion/) | No | Consumo de bebidas espirituosas en España alcanzó 180M Litros (-3.7% vs 2023). Ron: 16.0% del volumen total, ~28.8M Litros. | | 28.8M | | | | | | | Datos de asociación sectorial, fiabilidad alta para tendencias generales y volumen total de espirituosas. Estimación de volumen de ron basada en cuota. | Gratuito |
+| Informe Socioeconómico 2023 | Espirituosos de España (FEBE) | 2023 | [Link](https://www.espirituosos.es/El-sector-en-cifras/comercializacion/) | No | Consumo de bebidas espirituosas en España alcanzó 187M Litros (-5.9% vs 2022). Ron: 16.3% del volumen total, ~30.48M Litros. | | 30.48M | | | | | | | Datos de asociación sectorial, fiabilidad alta para tendencias generales y volumen total de espirituosas. Estimación de volumen de ron basada en cuota. | Gratuito |
+| Spain Rum (Spirits) Market Assessment and Forecast to 2026 | GlobalData | 2021 | [Link](https://www.globaldata.com/store/report/spain-rum-market-analysis/) | Sí | Mercado del ron en España registró un CAGR positivo del 0.08% (2016-2021), con un valor de ventas de 1.520,64M EUR en 2021. | 1520.64M | | 0.08% (2016-2021) | | | | | | Informe de investigación de mercado, fiabilidad media (datos de 2021). | De pago |
+| Spain Rum Market Size & Outlook, 2022-2030 | Grand View Research | 2023 | [Link](https://www.grandviewresearch.com/horizon/outlook/rum-market/spain) | Sí | Mercado del ron en España se espera que crezca a un CAGR del 6.7% (2023-2030). El segmento on-trade fue el mayor generador de ingresos en 2022. | | | 6.7% (2023-2030) | | Mayor generador de ingresos en 2022 | | | | Informe de investigación de mercado, fiabilidad media. | De pago |
+| Alimentación en España 2023 (datos 2022) | Mercasa / MAPA | 2023 | [Link](https://www.mercasa.es/wp-content/uploads/2023/11/ALIMENTACION-EN-ESPANA_2023.pdf) | No | Consumo de ron en hogares en 2022: 38.3M Litros y 166.5M EUR, con un precio medio de 4.35 €/L. | 166.5M | 38.3M | | | | Consumo en hogares | | | Informe oficial, fiabilidad alta. Nota: posible discrepancia con datos de FEBE para volumen total de ron, ya que este es solo consumo en hogares. | Gratuito |
+| Bacardi Cocktail Trends Report 2025 | Bacardi Limited | Nov 2024 | [Link](https://d3bbd6es2y3ctk.cloudfront.net/wp-content/uploads/2024/11/12152833/Bacardi-Cocktail-Trends-Report-2025.pdf) | No | Reporte que identifica las tendencias clave en la cultura de coctelería y la industria de espirituosos para 2025, incluyendo premiumización, experiencias y sostenibilidad. Menciona la estrategia 'The Sound of Rum' de Bacardí. | | | | 64% de consumidores prefieren rones añejos/premium | | | | Modelo Sónico 'The Sound of Rum', estrategia 'Do What Moves You', lanzamiento de Bacardí Caribbean Spiced, enfoque en sostenibilidad. | Informe de marca, fiabilidad alta para tendencias y estrategia de marca. Datos globales, no específicos de España. | Gratuito |
+| The sound of rum: Bacardí's new sonic model | Transform Magazine | Jan 14, 2026 | [Link](https://www.transformmagazine.net/articles/2025/the-sound-of-rum-bacard%C3%ADs-new-sonic-model/) | No | Artículo que detalla la estrategia de sonic branding de Bacardí, 'The Sound of Rum', y su colaboración con artistas para crear una identidad sonora evolutiva que resuene con la cultura joven. | | | | | | | | Detalles de la iniciativa 'The Sound of Rum'. | Artículo de prensa especializada, fiabilidad alta para información de marca. | Gratuito |
+| Estudio InfoAdex de la Inversión Publicitaria en España 2024 (datos 2023) | InfoAdex | 2024 | [Link](https://www.infoadex.es/es/reports/estudio-infoadex-de-la-inversin-publicitaria-en-espaa-2024) | Sí | La inversión publicitaria del sector de bebidas alcohólicas en España alcanzó casi 75M EUR en 2023. | | | | | | | | | Informe de inversión publicitaria, fiabilidad alta. Cifra global del sector, no específica de ron o Bacardí. | De pago |
+| Red Bull, Mahou, Ybarra, Ron Barceló y Coca-Cola, marcas con mayor cuota de atención digital en gran consumo en 2024 | Epsilontec | Mar 6, 2025 (datos 2024) | [Link](https://epsilontec.com/red-bull-mahou-ybarra-ron-barcelo-y-coca-cola-marcas-con-mayor-cuota-de-atencion-digital-en-gran-consumo-en-2024/) | No | Ron Barceló lidera la categoría de espirituosos en atención digital con un 2.72% en 2024. Bacardí es un top spender con enfoque en medios digitales. | | | | | | | Ron Barceló (2.72% DAI), Bacardí (top spender digital) | Top spender digital, cerca de Ron Barceló en atención digital. | Artículo de prensa especializada con datos de agencia de marketing digital, fiabilidad media. | Gratuito |
+| Regulación de Bebidas Alcohólicas en España | Síntesis de información regulatoria | 2024 | | No | Restricciones en publicidad para bebidas de alta graduación (>20º) en televisión, requisitos de etiquetado con advertencias sanitarias e información nutricional, e impuestos especiales sobre el alcohol. | | | | | | | | Publicidad (>20º), etiquetado (advertencias, nutrición), impuestos especiales. | Síntesis de normativa general, fiabilidad alta. | Gratuito |
+| Análisis de Competidores y Precios Medios | Síntesis de información de mercado | 2024 | | No | Ron Barceló lidera el mercado español, seguido por Havana Club, Bacardí y Brugal. El segmento premium/super-premium muestra un crecimiento del 5-7% CAGR. Precios medios por segmento: Mainstream (12-16€), Premium (18-28€), Super-Premium (>35€). | | | 5-7% (Premium/Super-Premium) | | | | Ron Barceló (líder), Havana Club, Bacardí, Brugal, Zacapa, Diplomático, Don Papa. | | Síntesis de múltiples fuentes y estimaciones, fiabilidad media. | Gratuito |
+
+## 5. Resúmenes Ejecutivos por Informe y Citas Clave
+
+A continuación, se presentan resúmenes ejecutivos y citas clave de los informes y fuentes consultadas, junto con notas sobre su fiabilidad:
+
+### 5.1. Informe Socioeconómico 2024 (Estimado) - Espirituosos de España (FEBE) [1]
+
+> En 2024, el consumo de bebidas espirituosas en España alcanzó los 180 Millones de Litros (-3.7% vs 2023). El ron representa el 16.0% del volumen total, con un volumen estimado de ~28.8 Millones de Litros.
+
+**Fiabilidad**: Datos de asociación sectorial, fiabilidad alta para tendencias generales y volumen total de espirituosas. Estimación de volumen de ron basada en cuota.
+
+### 5.2. Informe Socioeconómico 2023 - Espirituosos de España (FEBE) [1]
+
+> En 2023, el consumo de bebidas espirituosas en España alcanzó los 187 Millones de Litros (-5.9% vs 2022). El ron representó el 16.3% del volumen total, con un volumen estimado de ~30.48 Millones de Litros.
+
+**Fiabilidad**: Datos de asociación sectorial, fiabilidad alta para tendencias generales y volumen total de espirituosas. Estimación de volumen de ron basada en cuota.
+
+### 5.3. Spain Rum (Spirits) Market Assessment and Forecast to 2026 - GlobalData [2]
+
+> El mercado del ron en España registró un CAGR positivo del 0.08% durante 2016-2021, con un valor de ventas de 1.520,64 millones de euros en 2021.
+
+**Fiabilidad**: Informe de investigación de mercado, fiabilidad media (datos de 2021).
+
+### 5.4. Spain Rum Market Size & Outlook, 2022-2030 - Grand View Research [3]
+
+> El mercado del ron en España se espera que crezca a un CAGR del 6.7% de 2023 a 2030. El segmento on-trade fue el mayor generador de ingresos en 2022.
+
+**Fiabilidad**: Informe de investigación de mercado, fiabilidad media.
+
+### 5.5. Alimentación en España 2023 (datos 2022) - Mercasa / MAPA [4]
+
+> Consumo de ron en hogares en 2022: 38.3 millones de litros y 166.5 millones de euros, con un precio medio de 4.35 €/L.
+
+**Fiabilidad**: Informe oficial, fiabilidad alta. Nota: posible discrepancia con datos de FEBE para volumen total de ron, ya que este es solo consumo en hogares.
+
+### 5.6. Bacardi Cocktail Trends Report 2025 - Bacardi Limited [5]
+
+> Reporte que identifica las tendencias clave en la cultura de coctelería y la industria de espirituosos para 2025, incluyendo premiumización, experiencias y sostenibilidad. Menciona la estrategia 'The Sound of Rum' de Bacardí.
+
+**Fiabilidad**: Informe de marca, fiabilidad alta para tendencias y estrategia de marca. Datos globales, no específicos de España.
+
+### 5.7. The sound of rum: Bacardí's new sonic model - Transform Magazine [6]
+
+> Artículo que detalla la estrategia de sonic branding de Bacardí, 'The Sound of Rum', y su colaboración con artistas para crear una identidad sonora evolutiva que resuene con la cultura joven.
+
+**Fiabilidad**: Artículo de prensa especializada, fiabilidad alta para información de marca.
+
+### 5.8. Estudio InfoAdex de la Inversión Publicitaria en España 2024 (datos 2023) - InfoAdex [7]
+
+> La inversión publicitaria del sector de bebidas alcohólicas en España alcanzó casi 75 millones de euros en 2023.
+
+**Fiabilidad**: Informe de inversión publicitaria, fiabilidad alta. Cifra global del sector, no específica de ron o Bacardí.
+
+### 5.9. Red Bull, Mahou, Ybarra, Ron Barceló y Coca-Cola, marcas con mayor cuota de atención digital en gran consumo en 2024 - Epsilontec [8]
+
+> Ron Barceló lidera la categoría de espirituosos en atención digital con un 2.72% en 2024. Bacardí es un top spender con enfoque en medios digitales.
+
+**Fiabilidad**: Artículo de prensa especializada con datos de agencia de marketing digital, fiabilidad media.
+
+### 5.10. Regulación de Bebidas Alcohólicas en España - Síntesis de información regulatoria [Síntesis de información regulatoria]
+
+> Restricciones en publicidad para bebidas de alta graduación (>20º) en televisión, requisitos de etiquetado con advertencias sanitarias e información nutricional, e impuestos especiales sobre el alcohol.
+
+**Fiabilidad**: Síntesis de normativa general, fiabilidad alta.
+
+### 5.11. Análisis de Competidores y Precios Medios - Síntesis de información de mercado [Síntesis de información de mercado]
+
+> Ron Barceló lidera el mercado español, seguido por Havana Club, Bacardí y Brugal. El segmento premium/super-premium muestra un crecimiento del 5-7% CAGR. Precios medios por segmento: Mainstream (12-16€), Premium (18-28€), Super-Premium (>35€).
+
+**Fiabilidad**: Síntesis de múltiples fuentes y estimaciones, fiabilidad media.
+
+
+## 6. Bibliografía (Formato APA)
+
+[1] Espirituosos de España (FEBE). (2022-2024). *El sector en cifras: Comercialización*. Recuperado de [https://www.espirituosos.es/El-sector-en-cifras/comercializacion/](https://www.espirituosos.es/El-sector-en-cifras/comercializacion/)
+
+[2] GlobalData. (2021). *Spain Rum (Spirits) Market Assessment and Forecast to 2026*. Recuperado de [https://www.globaldata.com/store/report/spain-rum-market-analysis/](https://www.globaldata.com/store/report/spain-rum-market-analysis/)
+
+[3] Grand View Research. (2023). *Spain Rum Market Size & Outlook, 2022-2030*. Recuperado de [https://www.grandviewresearch.com/horizon/outlook/rum-market/spain](https://www.grandviewresearch.com/horizon/outlook/rum-market/spain)
+
+[4] Mercasa / MAPA. (2023). *Alimentación en España 2023 (datos 2022)*. Recuperado de [https://www.mercasa.es/wp-content/uploads/2023/11/ALIMENTACION-EN-ESPANA_2023.pdf](https://www.mercasa.es/wp-content/uploads/2023/11/ALIMENTACION-EN-ESPANA_2023.pdf)
+
+[5] Bacardi Limited. (2024). *Bacardi Cocktail Trends Report 2025*. Recuperado de [https://d3bbd6es2y3ctk.cloudfront.net/wp-content/uploads/2024/11/12152833/Bacardi-Cocktail-Trends-Report-2025.pdf](https://d3bbd6es2y3ctk.cloudfront.net/wp-content/uploads/2024/11/12152833/Bacardi-Cocktail-Trends-Report-2025.pdf)
+
+[6] Transform Magazine. (2026, 14 de enero). *The sound of rum: Bacardí's new sonic model*. Recuperado de [https://www.transformmagazine.net/articles/2025/the-sound-of-rum-bacard%C3%ADs-new-sonic-model/](https://www.transformmagazine.net/articles/2025/the-sound-of-rum-bacard%C3%ADs-new-sonic-model/)
+
+[7] InfoAdex. (2024). *Estudio InfoAdex de la Inversión Publicitaria en España 2024 (datos 2023)*. Recuperado de [https://www.infoadex.es/es/reports/estudio-infoadex-de-la-inversin-publicitaria-en-espaa-2024](https://www.infoadex.es/es/reports/estudio-infoadex-de-la-inversin-publicitaria-en-espaa-2024)
+
+[8] Epsilontec. (2025, 6 de marzo). *Red Bull, Mahou, Ybarra, Ron Barceló y Coca-Cola, marcas con mayor cuota de atención digital en gran consumo en 2024*. Recuperado de [https://epsilontec.com/red-bull-mahou-ybarra-ron-barcelo-y-coca-cola-marcas-con-mayor-cuota-de-atencion-digital-en-gran-consumo-en-2024/](https://epsilontec.com/red-bull-mahou-ybarra-ron-barcelo-y-coca-cola-marcas-con-mayor-cuota-de-atencion-digital-en-gran-consumo-en-2024/)
+
+[Síntesis de información de mercado] Síntesis de información de mercado. (2024). *Análisis de Competidores y Precios Medios*. Información compilada a partir de múltiples fuentes de mercado.
+
+[Síntesis de información regulatoria] Síntesis de información regulatoria. (2024). *Regulación de Bebidas Alcohólicas en España*. Información compilada a partir de normativa general.

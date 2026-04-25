@@ -1,0 +1,64 @@
+# Datos del Mercado del Ron en España (2020-2026)
+
+## 1. Tamaño del Mercado (Total: On-trade + Off-trade)
+- **2024 (Estimado FEBE)**: 
+  - Volumen Total Bebidas Espirituosas: 180 Millones de Litros (-3.7% vs 2023).
+  - Cuota del Ron (Volumen): 16.0%.
+  - Volumen Ron: ~28.8 Millones de Litros.
+- **2023 (FEBE)**:
+  - Volumen Total Bebidas Espirituosas: 187 Millones de Litros (-5.9% vs 2022).
+  - Cuota del Ron (Volumen): 16.3%.
+  - Volumen Ron: ~30.48 Millones de Litros.
+- **2021 (GlobalData)**:
+  - Valor de Ventas: 1.520,64 Millones de Euros.
+  - CAGR (2016-2021): 0.08%.
+- **CAGR Proyectado (2023-2030)**: 6.7% (Grand View Research).
+- **Alcance Geográfico**: España.
+
+## 2. Segmentación y Canales (Datos MAPA/Mercasa 2023)
+- **Consumo en Hogares (Off-trade) 2022**:
+  - Volumen: 38.3 Millones de Litros (Nota: este dato de Mercasa parece incluir más que solo ron puro o hay una discrepancia con FEBE, revisar).
+  - Valor: 166.5 Millones de Euros.
+  - Precio Medio: ~4.35 €/L (en hogar).
+- **Reparto On-trade vs Off-trade**: 
+  - Históricamente en España: ~60-70% On-trade (Hostelería) en volumen para espirituosos. 
+  - Post-pandemia (2023/2024): Tendencia a la estabilización, con el On-trade recuperando peso pero el Off-trade manteniéndose alto por el "home-cocktailing".
+
+## 3. Competidores y Cuotas (Estimaciones 2024)
+- **Líder**: Ron Barceló (Dominio claro en el segmento mainstream/premium).
+- **Seguidores**: Havana Club, Bacardí, Brugal.
+- **Premium/Super-Premium**: Zacapa, Diplomático, Don Papa (Crecimiento CAGR ~5-7%).
+
+## 4. Tendencias Clave
+- **Premiumización**: 64% de los consumidores prefieren rones añejos/premium sobre estándar.
+- **Coctelería**: Mojito y Piña Colada siguen siendo los cócteles #1 y #2 en España (Bacardi Trends 2025).
+- **Sostenibilidad**: Fuerte enfoque de Bacardí en reducción de emisiones y packaging eco-friendly.
+- **Sonic Branding**: Iniciativa "The Sound of Rum" de Bacardí para 2025.
+
+## 5. Precios Medios (2024)
+- **Mainstream (70cl)**: 12€ - 16€ (Bacardí Carta Blanca, Negrita).
+- **Premium (70cl)**: 18€ - 28€ (Barceló Añejo, Havana 7, Bacardí 8).
+- **Super-Premium (70cl)**: >35€ (Zacapa 23, Diplomático Reserva Exclusiva).
+
+## 6. Insights Específicos para Rebranding de Bacardí (2025-2026)
+- **Modelo Sónico "The Sound of Rum"**: Bacardí ha lanzado una identidad sonora evolutiva en lugar de un logo estático. Colabora con artistas globales (EPs "Music Liberates Music") en géneros como Afrobeat, EDM y Hip Hop para resonar con la cultura joven.
+- **Estrategia "Do What Moves You"**: Enfoque en la libertad, el movimiento y la autenticidad. La marca busca ser percibida no solo como un producto, sino como un facilitador de experiencias culturales.
+- **Innovación en Producto**: Lanzamiento de "Bacardí Caribbean Spiced" (primer ron premium especiado añejo) para capitalizar la tendencia de premiumización y sabores complejos.
+- **Sostenibilidad**: Iniciativas para reducir la huella de carbono y envases 100% biodegradables para 2030, alineado con las demandas del consumidor Gen Z y Millennial en España.
+- **Posicionamiento**: Bacardí se sitúa como el ron "high-energy" para momentos de celebración y coctelería de calidad (Mojito, Piña Colada).
+
+## 7. Inversión en Marketing y Publicidad (España 2023-2024)
+- **Inversión Total Sector Bebidas Alcohólicas (2023)**: ~75 Millones de Euros (InfoAdex).
+- **Inversión Bacardí**: Aunque las cifras exactas son confidenciales, Bacardí es uno de los top spenders en el segmento de ron junto a Barceló y Havana Club, con un enfoque creciente en medios digitales (atención digital líder según Epsilon) y eventos experienciales.
+- **Cuota de Atención Digital (2024)**: Ron Barceló lidera la categoría de espirituosos en atención digital (2.72% DAI), seguido de cerca por Bacardí.
+
+## 8. Competencia Detallada
+- **Ron Barceló**: Líder absoluto en volumen y valor en España. Estrategia basada en "Desalia" y conexión con el público joven a través de festivales.
+- **Havana Club**: Fuerte posicionamiento en herencia y coctelería clásica (Mojito).
+- **Ron Brugal**: Muy fuerte en el segmento de tardeo y combinados clásicos.
+- **Ron Santa Teresa / Diplomático**: Crecimiento en el segmento super-premium, compitiendo con las referencias de gama alta de Bacardí (Bacardí 8, 10).
+
+## 9. Restricciones Regulatorias en España
+- **Publicidad**: Prohibida la publicidad de bebidas alcohólicas de >20º en televisión, excepto en franjas nocturnas específicas (después de las 20:00).
+- **Etiquetado**: Obligación de incluir advertencias sanitarias y, cada vez más, información nutricional y de ingredientes (autorregulación sectorial).
+- **Impuestos**: El ron está sujeto al Impuesto Especial sobre el Alcohol, que ha sufrido incrementos moderados en los últimos años.
