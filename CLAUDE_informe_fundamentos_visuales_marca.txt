@@ -1,0 +1,578 @@
+================================================================================
+INFORME DE INVESTIGACIÓN — FUNDAMENTOS VISUALES DE MARCA
+Logos Minimalistas · Tipografía con Serifas · Psicología del Color
+================================================================================
+Fuentes: Investigaciones académicas y estudios de mercado
+(Nielsen, Monotype/Neurons, ResearchGate, Max Planck Institute, entre otras)
+================================================================================
+
+
+================================================================================
+ÍNDICE
+================================================================================
+
+  1.  Logos minimalistas: tasa de recuerdo e identificación de marca
+        1.1  Contexto y tendencia actual
+        1.2  Datos sobre recuerdo y reconocimiento
+        1.3  Procesamiento cognitivo y simplicidad
+        1.4  Casos de referencia (IKEA, Tropicana, Burger King)
+        1.5  Recuerdo de marca según Nielsen
+
+  2.  Tipografía con serifas vs. sans-serif: elegancia y porte de marca
+        2.1  El efecto medible de la tipografía (Monotype/Neurons, 2022)
+        2.2  Serifas: sofisticación, autoridad y lujo
+        2.3  Estudio empírico en marcas reales (Eataly, Barilla, Ferrero Rocher)
+        2.4  Tipografía y valor percibido del producto
+        2.5  Investigación de Monotype a escala global (2023, n=1.957)
+
+  3.  La combinación azul claro, rojo y negro: psicología del color
+        3.1  Procesamiento del color antes que la forma
+        3.2  Azul: confianza, calma y autoridad
+        3.3  Rojo: energía, urgencia y activación
+        3.4  Negro: sofisticación, autoridad y contraste estructural
+        3.5  La paleta azul-rojo-negro como sistema funcional
+
+  4.  Nota metodológica y relación de fuentes
+
+
+================================================================================
+1. LOGOS MINIMALISTAS: TASA DE RECUERDO E IDENTIFICACIÓN DE MARCA
+================================================================================
+
+--------------------------------------------------------------------------------
+1.1  Contexto y tendencia actual
+--------------------------------------------------------------------------------
+
+La saturación del ecosistema digital ha convertido la simplicidad visual en un
+imperativo estratégico. El diseño minimalista no es simplemente una tendencia
+estética, sino una respuesta medible a las limitaciones cognitivas del
+consumidor contemporáneo.
+
+  FUENTE: Stochastic Modelling & Computational Sciences,
+          Roman Science Publications (2023)
+  URL:    https://romanpub.com/resources/smcs-v3-n2-2023-163.pdf
+
+  "En la era definida por la escasa atención y el contenido digital saturado,
+   los diseños de logos minimalistas y adaptativos han emergido como herramientas
+   poderosas para establecer el reconocimiento y el recuerdo de marca. El estudio
+   investiga cómo estas estrategias de diseño influyen en la memoria de marca,
+   especialmente entre consumidores nativos digitales de las generaciones Z y
+   Millennial."
+
+
+--------------------------------------------------------------------------------
+1.2  Datos sobre recuerdo y reconocimiento
+--------------------------------------------------------------------------------
+
+Los estudios cuantitativos confirman de forma consistente el vínculo entre
+simplicidad del diseño y retención de marca en la memoria del consumidor.
+
+  FUENTE: Stochastic Modelling & Computational Sciences — Estudio con 105
+          participantes (2023)
+  URL:    https://romanpub.com/resources/smcs-v3-n2-2023-163.pdf
+
+  "Los resultados revelan que los logos minimalistas mejoran significativamente
+   el recuerdo y el reconocimiento de marca. Entre 105 encuestados nativos
+   digitales, la mayoría mostró una asociación de memoria más fuerte con diseños
+   de logos simples y limpios, apoyando la hipótesis de que la estética
+   minimalista conduce a una mejor retención de marca."
+
+  FUENTE: International Journal of Academic Research in Business and Social
+          Sciences, Vol. 14, No. 3 (2024) — Revisión sistemática 5 años
+  URL:    https://www.researchgate.net/publication/379216337
+
+  "Viniegra et al. (2021), mediante eye-tracking, encontraron que los
+   participantes enfocaron más atención y emoción en logos con estilo de línea
+   simple. Chiu et al. (2023), también mediante eye-tracking, descubrieron que
+   los logos concisos atraen más atención y tienen un impacto positivo.
+   Adicionalmente, Dommer & Parker (2023) confirmaron que los consumidores
+   recuerdan los logos más fácilmente que los nombres de marca."
+
+
+--------------------------------------------------------------------------------
+1.3  Procesamiento cognitivo: carga mental y tiempo de respuesta
+--------------------------------------------------------------------------------
+
+El mecanismo detrás del mayor recuerdo con logos simples está documentado en
+la neurociencia del diseño.
+
+  FUENTE: LogoDesign.net — Análisis de sobrecarga cognitiva y recuerdo (2025)
+  URL:    https://www.logodesign.net/blog/cognitive-overload-brand-recall/
+
+  "En entornos móviles, donde el tiempo medio de permanencia por pantalla es
+   inferior a 2,3 segundos (Google UX Analytics, 2024), un logo debe registrarse
+   antes de que el usuario se desplace. Un símbolo recargado fuerza
+   micro-decisiones ('¿es eso una hoja? ¿una ola? ¿una letra?'). Un logo
+   minimalista entrega resolución instantánea. Esa claridad se convierte en la
+   semilla de la familiaridad, y la familiaridad, confirman los neurólogos, es
+   el predictor más fuerte de preferencia y recuerdo."
+
+  FUENTE: SHS Web of Conferences 207, 02019 (2024)
+  URL:    https://www.researchgate.net/publication/386738106
+
+  "Las identidades visuales simplificadas no solo mejoran el reconocimiento de
+   marca en entornos digitales, sino que también optimizan la memoria del
+   consumidor y sus asociaciones con la marca. Al reducir los elementos de diseño
+   superfluos, la imagen de marca transmite sus valores centrales de forma más
+   intuitiva y mantiene consistencia en múltiples plataformas. El diseño
+   minimalista también se alinea con las preferencias estéticas de los
+   consumidores modernos, proyectando profesionalismo y modernidad."
+
+
+--------------------------------------------------------------------------------
+1.4  Casos de referencia
+--------------------------------------------------------------------------------
+
+CASO IKEA — Logo más recordado en estudio experimental
+------------------------------------------------------
+
+  FUENTE: LogoDesign.net — Experimento de memoria con logos (n > 150)
+  URL:    https://www.logodesign.net/blog/cognitive-overload-brand-recall/
+
+  "En un experimento con más de 150 participantes, el logo de IKEA fue el más
+   fielmente recordado: el 30% de los participantes lo dibujó casi a la perfección
+   de memoria, superando a todos los demás logos famosos evaluados. El logo,
+   que presenta letras en negrita azul sobre un óvalo amarillo, no ha cambiado
+   significativamente en décadas: es directo, simétrico y profundamente vinculado
+   a la identidad de la marca."
+
+
+CASO TROPICANA — Riesgo del minimalismo mal ejecutado
+-----------------------------------------------------
+
+  FUENTE: LogoDesign.net — Análisis de rediseños fallidos
+  URL:    https://www.logodesign.net/blog/cognitive-overload-brand-recall/
+
+  "Tropicana (2009): cuando sustituyó su imagen tradicional por un diseño
+   minimalista 'limpio', los clientes no podían encontrar el producto en las
+   estanterías. Las ventas cayeron un 20% en dos meses, obligando a PepsiCo a
+   recuperar el diseño original. El rediseño sobrecargó al espectador no por
+   resultar feo, sino porque exigió demasiado reprocesamiento."
+
+
+INVESTIGACIÓN BURGER KING — Rediseño minimalista (Edang et al., 2024)
+---------------------------------------------------------------------
+
+  FUENTE: The Brand E·Code — The Rise of Minimalist Branding (2025)
+  URL:    https://www.thebrandecode.com/post/the-rise-of-minimalist-branding-why-less-is-more-sometimes
+
+  "La investigación de Edang et al. (2024) reveló que el rediseño minimalista
+   de Burger King mejoró el reconocimiento de marca. Al eliminar elementos
+   innecesarios, las marcas hacen que su identidad central destaque, garantizando
+   que los clientes las recuerden. Los diseños minimalistas también se asocian
+   con fiabilidad y autenticidad."
+
+
+--------------------------------------------------------------------------------
+1.5  El recuerdo de marca según Nielsen (2023)
+--------------------------------------------------------------------------------
+
+El informe Brand Lift Report de Nielsen contextualiza el recuerdo dentro del
+sistema global de métricas de marca.
+
+  FUENTE: Nielsen — 2023 Brand Lift Report: Building Brands with Emerging Media
+  URL:    https://www.nielsen.com/insights/2023/in-emerging-media-brand-recall-is-the-biggest-driver-of-lift/
+
+  "La investigación de Nielsen confirma que el recuerdo de marca es el factor
+   más importante del brand lift en medios emergentes. En los cinco principales
+   impulsores analizados (podcasts, marketing de influencers y contenido de marca),
+   el recuerdo de marca influye en el 38,7% del brand lift, por encima incluso
+   del awareness previo del consumidor, que se sitúa en el 37,5%. Nada resulta
+   más importante para el brand lift que el recuerdo de marca."
+
+
+================================================================================
+2. TIPOGRAFÍA CON SERIFAS VS. SANS-SERIF: ELEGANCIA Y PORTE DE MARCA
+================================================================================
+
+--------------------------------------------------------------------------------
+2.1  El efecto medible de la tipografía (Monotype/Neurons, 2022)
+--------------------------------------------------------------------------------
+
+El estudio de Monotype publicado en 2022 es la investigación cuantitativa más
+completa realizada específicamente sobre el impacto emocional de las fuentes en
+los consumidores. Fue conducido junto a Neurons, empresa especializada en
+neurociencia aplicada al marketing.
+
+  FUENTE: Monotype — New Research on the Emotional Impact of Type (2022, n=400)
+  URL:    https://www.monotype.com/company/news/monotype-study-shows-typeface-choice-can-boost-positive-consumer-response-13
+
+  "El estudio encuestó a 400 personas utilizando tres tipos de estímulos: palabras
+   sueltas, frases y frases con marca. Los resultados mostraron que presentar la
+   palabra 'quality' en Cotford Display Regular (una serif con fuertes asociaciones
+   con el mundo de la moda y el lujo) generó un incremento del 13% en la percepción
+   de relevancia, un 10% en memorabilidad y un 9% en confianza. Estos resultados
+   demuestran cómo una fuente con raíces en la caligrafía puede provocar una
+   sensación inmediata de confianza en el lector."
+
+  CITA DIRECTA — James Fooks-Bale, Senior Brand Director de Monotype:
+  "Incluso en ausencia de color, logo, movimiento o cualquier otro elemento
+   tradicional de identidad visual, la tipografía desempeña un papel crucial en
+   la transmisión de confianza, sinceridad y fiabilidad."
+
+Datos clave del estudio Monotype (2022):
+  · Serif Cotford Display Regular:          +13% relevancia, +10% memorabilidad, +9% confianza
+  · Sans-serif humanista FS Jack Regular:   +9% innovación, +7% prominencia, +3% singularidad
+  · Sans-serif geométrica Gilroy Bold:      +12% prominencia de eslogan, +5% percepción de honestidad
+
+
+--------------------------------------------------------------------------------
+2.2  Serifas: sofisticación, autoridad y lujo
+--------------------------------------------------------------------------------
+
+La literatura académica y los estudios de mercado convergen en un perfil
+psicológico claro para la tipografía con serifa en contextos de marca premium.
+
+  FUENTE: Wichita State University — Estudios sobre percepción tipográfica
+          (citado en múltiples fuentes)
+  URL:    https://ronntorossian.com/the-psychology-of-font-choice-and-brand-personality/
+
+  "Las fuentes serif como Times New Roman y Garamond tienden a transmitir
+   tradición, respetabilidad y fiabilidad. Estas características hacen que las
+   fuentes serif sean opciones populares para instituciones establecidas, marcas
+   de lujo y organizaciones que quieren proyectar autoridad y confianza."
+
+  FUENTE: Análisis de identidad visual — Dior, Gucci, New York Times
+  URL:    https://www.cccreative.design/blogs/the-silent-impact-of-typography-on-brand-perception-an-in-depth-analysis
+
+  "Las marcas de lujo recurren habitualmente a tipografías que transmiten
+   sofisticación, exclusividad y elegancia. Las fuentes serif clásicas son
+   opciones populares para casas de moda de alta gama como Dior y Gucci. El
+   New York Times utiliza una fuente serif clásica para su logotipo y sus
+   titulares, evocando credibilidad, autoridad y rigor."
+
+  FUENTE: Dot2Shape — Font Psychology Research
+  URL:    https://dot2shape.com/blog/the-psychology-of-typography-how-fonts-influence-your-brands-message/
+
+  "La investigación en psicología de fuentes señala que las fuentes serif aumentan
+   la confianza percibida hasta en un 40%. Distintos tipos de letra activan vías
+   neuronales específicas asociadas con rasgos de personalidad, influyendo en cómo
+   los consumidores perciben la credibilidad, la profesionalidad y el rango de
+   una marca."
+
+
+--------------------------------------------------------------------------------
+2.3  Estudio empírico en marcas reales: Eataly, Barilla, Ferrero Rocher
+--------------------------------------------------------------------------------
+
+Un estudio presentado en el 7th International Congress on Contemporary Scientific
+Research aplicó el método de grupos de discusión para medir cómo la tipografía
+afecta a la percepción de la personalidad de marca en brands italianas consolidadas.
+
+  FUENTE: 7th International Congress on Contemporary Scientific Research —
+          Estudio tipografía serif/sans-serif en marcas italianas
+  URL:    https://www.researchgate.net/publication/392027169
+
+  "El logo de Eataly (serif) fue percibido principalmente como sofisticado,
+   honesto y competente, creando una imagen de lujo y élite. El uso de tipografía
+   serif en Barilla destacó su fiabilidad y competencia. Los autores concluyen
+   que la tipografía utilizada puede influir directamente en la percepción de los
+   consumidores, conduciéndola hacia la asociación con determinados rasgos de
+   personalidad como confiabilidad, dinamismo o prestigio."
+
+
+--------------------------------------------------------------------------------
+2.4  Tipografía y valor percibido del producto
+--------------------------------------------------------------------------------
+
+  FUENTE: Onrec — The Overlooked Impact of Typography Choices on Label Design
+          and Perception (2025)
+  URL:    https://www.onrec.com/news/news-archive/the-overlooked-impact-of-typography-choices-label-design-and-perception
+
+  "Las marcas premium eligen fuentes serif elegantes o encargan tipografías
+   personalizadas para evocar exclusividad, artesanía y alta calidad. Los
+   productos de precio reducido adoptan con más frecuencia fuentes funcionales
+   y directas que comunican practicidad. Los detalles tipográficos como el
+   espaciado, la alineación y el kerning también envían señales visuales potentes:
+   el texto bien espaciado y equilibrado transmite sofisticación y atención
+   al detalle."
+
+
+--------------------------------------------------------------------------------
+2.5  Investigación de Monotype a escala global (2023, n=1.957)
+--------------------------------------------------------------------------------
+
+  FUENTE: Monotype — Typography Matters: How Fonts Make Us Feel Depends
+          on Where We Live (2023)
+  URL:    https://www.monotype.com/company/press-release/typography-matters-new-research-reveals-how-fonts-make-us-feel-depends-where
+
+  "En una investigación con 1.957 participantes en múltiples países, los hallazgos
+   clave confirmaron que las fuentes serif dinámicas transmiten honestidad y
+   calidad, y que las asociaciones culturales con las serifas las convierten en
+   una opción convincente para marcas que buscan evocar estas emociones. Las
+   fuentes sans-serif humanistas sugieren innovación y distinción. Las sans-serif
+   geométricas se asocian con honestidad y claridad."
+
+
+================================================================================
+3. AZUL CLARO, ROJO Y NEGRO: PSICOLOGÍA DEL COLOR Y BASE DE COMPLEMENTARIOS
+================================================================================
+
+--------------------------------------------------------------------------------
+3.1  Procesamiento del color antes que la forma
+--------------------------------------------------------------------------------
+
+El fundamento neurocientífico del color en el diseño sitúa su influencia en un
+plano previo al procesamiento consciente del consumidor.
+
+  FUENTE: Striven — Design Psychology: Color Theory's Impact on Conversion Rates
+          (2025) — Max Planck Institute
+  URL:    https://www.striven.com/blog/design-psychology-color-theorys-impact-on-conversion-rates
+
+  "Estudios del Max Planck Institute revelaron que la información sobre el color
+   llega a los centros cognitivos del cerebro 25 milisegundos antes que la
+   información sobre las formas. Esta ventaja convierte al color en una herramienta
+   poderosa para guiar la atención del usuario e influir en las decisiones antes
+   de que se produzca ningún procesamiento consciente."
+
+  FUENTE: Striven — Contraste y legibilidad (preferencia biológica)
+  URL:    https://www.striven.com/blog/design-psychology-color-theorys-impact-on-conversion-rates
+
+  "El ojo humano procesa el contraste antes que cualquier otro detalle visual.
+   El texto negro sobre fondo blanco muestra una tasa de legibilidad un 70%
+   superior en comparación con combinaciones de bajo contraste. Esta preferencia
+   biológica explica por qué los diseños de alto contraste conducen frecuentemente
+   a mejores tasas de engagement."
+
+
+--------------------------------------------------------------------------------
+3.2  Azul: confianza, calma y autoridad
+--------------------------------------------------------------------------------
+
+El azul presenta la base más documentada en términos de respuesta psicológica
+positiva en branding.
+
+  FUENTE: Vivid Creative — The Psychology of Colour in Branding: 2025's
+          Mood-Driven Palette
+  URL:    https://www.vividcreative.com/2025/07/25/the-psychology-of-colour-in-branding-2025s-mood-driven-palette
+
+  "El azul es considerado globalmente el color más fiable, preferido por el 54%
+   de los consumidores para marcas. Su efecto es tan intrínseco que tiene un
+   impacto físico en el cuerpo humano: el azul suave promueve la calma, lo que
+   explica su uso común en aplicaciones de bienestar y meditación."
+
+  FUENTE: AND Academy — Color Theory of Blue & Its Use Cases in Branding (2026)
+  URL:    https://www.andacademy.com/resources/blog/graphic-design/color-theory-blue/
+
+  "El azul claro (sky blue o baby blue) proyecta especialmente amistad y
+   tranquilidad, mientras que el azul oscuro (navy) evoca profesionalismo y
+   confianza. La combinación de azul y rojo crea un contraste dinámico y llamativo,
+   apropiada para marcas que quieren evocar sensación de energía y vitalidad."
+
+  FUENTE: Journal of Marketing & Social Research — Color psychology (2025, n=285)
+  URL:    https://jmsr-online.com/article/the-psychology-of-color-in-marketing-how-visual-elements-affect-consumer-perception-142/
+
+  "Un estudio con 285 participantes confirma que ciertas asociaciones de color
+   se mantienen consistentes transculturalmente: el azul con la confianza y el
+   rojo con la excitación. Los investigadores recomiendan marcos de color
+   estratégicos que combinen principios universales de psicología del color con
+   variables contextuales propias de cada categoría de producto."
+
+
+--------------------------------------------------------------------------------
+3.3  Rojo: energía, urgencia y activación
+--------------------------------------------------------------------------------
+
+El rojo actúa como detonante de respuesta inmediata, con efectos documentados
+tanto en el sistema nervioso como en el comportamiento de compra.
+
+  FUENTE: CoSchedule — The Know It All Guide To Color Psychology In Marketing
+          — Faber Birren (Color Psychology and Color Therapy)
+  URL:    https://coschedule.com/blog/color-psychology-marketing
+
+  "El investigador de color Faber Birren descubrió que el rojo estimula el
+   sistema nervioso mientras que el azul lo relaja. El rojo también hace que
+   las personas sobreestimen el paso del tiempo, mientras que los colores fríos
+   como el azul producen el efecto contrario. Los colores cálidos brillantes
+   promueven la actividad muscular intensa, mientras que los más suaves y profundos
+   favorecen las tareas mentales y visuales."
+
+  FUENTE: Striven — HubSpot A/B Testing: Red vs. Green CTA
+  URL:    https://www.striven.com/blog/design-psychology-color-theorys-impact-on-conversion-rates
+
+  "Un estudio de HubSpot encontró que los botones de llamada a la acción en rojo
+   superaron a los verdes en un 21% en pruebas A/B."
+
+  FUENTE: Vivid Creative — Red and CTA engagement (2025)
+  URL:    https://www.vividcreative.com/2025/07/25/the-psychology-of-colour-in-branding-2025s-mood-driven-palette
+
+  "El rojo puede impulsar el engagement en llamadas a la acción en más de un 21%
+   gracias a sus cualidades energizantes y de urgencia. El deseo de 'presionar
+   el botón' unido a la urgencia que transmiten las alarmas y señales rojas dirige
+   la atención de forma involuntaria."
+
+
+--------------------------------------------------------------------------------
+3.4  Negro: sofisticación, autoridad y contraste estructural
+--------------------------------------------------------------------------------
+
+  FUENTE: Uxcel — Color Psychology in Branding
+  URL:    https://uxcel.com/blog/beginners-guide-to-color-psychology
+
+  "El negro es habitualmente un emparejamiento perfecto para cualquier color. Es
+   útil para crear contrastes y popular como color de fondo, especialmente en
+   interfaces basadas en contenido visual. Muchas marcas de lujo eligen el negro
+   por su asociación con exclusividad y prestigio. El negro transmite inteligencia,
+   autoridad y poder. En la industria de la moda se utiliza por sus asociaciones
+   con elegancia, lujo y refinamiento."
+
+  FUENTE: Be More You Branding — Colour Psychology in Branding (2023)
+  URL:    https://bemoreyouonline.com/power-of-colour-psychology-in-branding/
+
+  "Las marcas de lujo tienden a usar una paleta de colores limitada, a menudo
+   centrándose en uno o dos colores primarios. Esta restricción en el uso del
+   color ayuda a mantener una percepción de exclusividad y calidad, evitando la
+   impresión de ser excesivamente llamativas o baratas."
+
+
+--------------------------------------------------------------------------------
+3.5  La paleta azul-rojo-negro como sistema funcional
+--------------------------------------------------------------------------------
+
+Varios estudios y marcos de referencia apuntan al funcionamiento complementario
+de esta combinación cromática como sistema de identidad visual cohesionado.
+
+  FUENTE: Vivid Creative — Sistema jerárquico de color en identidad de marca (2025)
+  URL:    https://www.vividcreative.com/2025/07/25/the-psychology-of-colour-in-branding-2025s-mood-driven-palette
+
+  "Las marcas utilizan tonos azules oscuros y medios para establecer autoridad
+   y continuidad en la identidad maestra de marca, mientras que colores de acento
+   cuidadosamente seleccionados (como el rojo) otorgan a cada elemento su identidad
+   diferenciada. Este sistema jerárquico de color garantiza claridad en la
+   arquitectura de marca sin sacrificar la unidad visual."
+
+  FUENTE: AND Academy — Blue and Red: dynamic contrast (2026)
+  URL:    https://www.andacademy.com/resources/blog/graphic-design/color-theory-blue/
+
+  "La combinación azul y rojo crea un contraste dinámico y llamativo. La naturaleza
+   calmante del azul lo convierte en el color base perfecto; su combinación con
+   el rojo enérgico añade la dimensión de excitación y dirige la atención hacia
+   los elementos de llamada a la acción."
+
+  FUENTE: CoSchedule — Complementary Color Theory (color wheel)
+  URL:    https://coschedule.com/blog/color-psychology-marketing
+
+  "Los colores complementarios son la forma más fácil de hacer que algo destaque.
+   Cuando el ojo humano lleva un tiempo mirando una gran cantidad del mismo color,
+   busca ver el opuesto como un descanso visual. La recomendación técnica es
+   utilizar un color primario como dominante y acentuar con su complementario en
+   una proporción aproximada de 7:3."
+
+NOTA: El negro, en este esquema, opera como ancla estructural: neutraliza
+visualmente sin competir cromáticamente, maximiza la legibilidad del texto y
+actúa como marco que intensifica tanto el azul como el rojo.
+
+
+================================================================================
+4. NOTA METODOLÓGICA Y RELACIÓN DE FUENTES
+================================================================================
+
+NOTA SOBRE EL DATO DEL 80%:
+La estadística "80% de incremento en reconocimiento de marca gracias al color"
+es la más citada en la industria, pero su contexto original ha sido debatido.
+La versión más precisa y documentada es: el uso de color frente a
+representaciones monocromas puede incrementar el reconocimiento de marca hasta
+en un 80%. Esta matización proviene del análisis de insights4print.ceo (2019)
+sobre el trabajo original de la Universidad de Loyola Maryland y la
+investigación de Xerox. Se incluye aquí con esta contextualización para
+asegurar el rigor del informe.
+
+Fuente del análisis crítico:
+URL: https://www.insights4print.ceo/2019/02/color-increases-brand-recognition-by-80-the-real-contents-of-the-loyola-study-revealed/
+
+
+--------------------------------------------------------------------------------
+RELACIÓN COMPLETA DE FUENTES
+--------------------------------------------------------------------------------
+
+ #  FUENTE / INSTITUCIÓN                                    AÑO / MUESTRA
+ ─  ────────────────────────────────────────────────────────────────────────────
+
+ 1  Nielsen — 2023 Brand Lift Report
+    https://www.nielsen.com/insights/2023/in-emerging-media-brand-recall-is-the-biggest-driver-of-lift/
+    Año: 2023
+
+ 2  Monotype/Neurons — Emotional Impact of Type
+    https://www.monotype.com/company/news/monotype-study-shows-typeface-choice-can-boost-positive-consumer-response-13
+    Año: 2022 | n = 400
+
+ 3  Monotype — Typography Matters (global, multicountry)
+    https://www.monotype.com/company/press-release/typography-matters-new-research-reveals-how-fonts-make-us-feel-depends-where
+    Año: 2023 | n = 1.957
+
+ 4  Roman Science Publications — Minimalist logos & brand memory (Gen Z)
+    https://romanpub.com/resources/smcs-v3-n2-2023-163.pdf
+    Año: 2023 | n = 105
+
+ 5  SHS Web of Conferences 207, 02019 — Simplified Visual Identity
+    https://www.researchgate.net/publication/386738106
+    Año: 2024
+
+ 6  Int. Journal of Academic Research (IJARBSS), Vol. 14 No. 3
+    Logo Impact on Consumer's Perception — Revisión sistemática 5 años
+    https://www.researchgate.net/publication/379216337
+    Año: 2024
+
+ 7  7th Int. Congress Contemporary Scientific Research
+    Serif typography in Italian brands (Eataly, Barilla, Ferrero Rocher)
+    https://www.researchgate.net/publication/392027169
+    Año: 2025
+
+ 8  Journal of Marketing & Social Research — Color psychology
+    https://jmsr-online.com/article/the-psychology-of-color-in-marketing-how-visual-elements-affect-consumer-perception-142/
+    Año: 2025 | n = 285
+
+ 9  Max Planck Institute — Color processing speed
+    (citado en Striven, 2025)
+    https://www.striven.com/blog/design-psychology-color-theorys-impact-on-conversion-rates
+
+10  Faber Birren — Color Psychology and Color Therapy
+    (citado en CoSchedule)
+    https://coschedule.com/blog/color-psychology-marketing
+    Referencia clásica
+
+11  Wichita State University — Font perception studies
+    (citado en Monotype / Ronn Torossian, 2025)
+    https://ronntorossian.com/the-psychology-of-font-choice-and-brand-personality/
+
+12  Vivid Creative — Psychology of colour in branding 2025
+    https://www.vividcreative.com/2025/07/25/the-psychology-of-colour-in-branding-2025s-mood-driven-palette
+    Año: 2025
+
+13  AND Academy — Color Theory of Blue & Its Use Cases
+    https://www.andacademy.com/resources/blog/graphic-design/color-theory-blue/
+    Año: 2026
+
+14  insights4print.ceo — Análisis crítico del dato "80% brand recognition"
+    https://www.insights4print.ceo/2019/02/color-increases-brand-recognition-by-80-the-real-contents-of-the-loyola-study-revealed/
+    Año: 2019
+
+15  LogoDesign.net — Cognitive overload & brand recall
+    https://www.logodesign.net/blog/cognitive-overload-brand-recall/
+    Año: 2025
+
+16  The Brand E·Code — The Rise of Minimalist Branding
+    https://www.thebrandecode.com/post/the-rise-of-minimalist-branding-why-less-is-more-sometimes
+    Año: 2025
+
+17  Uxcel — Color Psychology in Branding
+    https://uxcel.com/blog/beginners-guide-to-color-psychology
+
+18  Be More You Branding — Power of Colour Psychology in Branding
+    https://bemoreyouonline.com/power-of-colour-psychology-in-branding/
+    Año: 2023
+
+19  Dot2Shape — The Psychology of Typography: Serif fonts and trustworthiness
+    https://dot2shape.com/blog/the-psychology-of-typography-how-fonts-influence-your-brands-message/
+
+20  Onrec — The Overlooked Impact of Typography Choices on Label Design
+    https://www.onrec.com/news/news-archive/the-overlooked-impact-of-typography-choices-label-design-and-perception
+    Año: 2025
+
+21  CoSchedule — The Know It All Guide To Color Psychology In Marketing
+    https://coschedule.com/blog/color-psychology-marketing
+    Año: 2025
+
+================================================================================
+                              FIN DEL INFORME
+================================================================================
