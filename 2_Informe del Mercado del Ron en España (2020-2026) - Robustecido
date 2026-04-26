@@ -1,0 +1,119 @@
+# Informe del Mercado del Ron en España (2020-2026) - Robustecido
+
+Este informe recopila datos de fuentes primarias y de referencia para el mercado del ron en España, siguiendo la estructura de metadatos, KPIs y análisis de fiabilidad solicitada.
+
+---
+
+## 1. Fuente: Euromonitor International
+### Metadatos de la fuente
+- **Título exacto**: Spirits in Spain.
+- **Organismo / proveedor**: Euromonitor International.
+- **Año de publicación**: Junio 2025 (Periodo cubierto: 2019-2024 histórico; 2025-2029 forecast).
+- **URL pública**: [https://www.euromonitor.com/spirits-in-spain/report](https://www.euromonitor.com/spirits-in-spain/report)
+- **¿Es de pago?**: Sí (USD 1.195). Existe un resumen público gratuito y tabla de contenidos.
+
+### Resumen ejecutivo
+El mercado de bebidas espirituosas en España en 2024 mostró signos de estancamiento en volumen tras la recuperación post-pandemia, aunque el valor se mantiene gracias a la premiumización. El ron sigue siendo una de las cuatro categorías principales junto al whisky, ginebra y licores. Se observa una tendencia hacia el consumo de mayor calidad en menores ocasiones de consumo debido a la inflación (2,77% en 2024).
+
+### Extracción de datos
+- **Volumen y Valor**: El informe incluye tablas detalladas (Tabla 9: Sales of Dark Rum by Price Platform; Tabla 10: Sales of White Rum).
+- **Segmentación por precio**: "Sales of Dark Rum by Price Platform: % Total Volume 2019-2024" (Página de datos de categoría).
+- **Reparto On-trade vs Off-trade**: El on-trade sigue siendo el canal principal (6 de cada 10 consumiciones según FEBE/Espirituosos España, fuente citada por analistas).
+- **Fiabilidad**: **Alta**. Basado en analistas locales y datos de auditoría de mercado (Passport database).
+
+---
+
+## 2. Fuente: Grand View Research
+### Metadatos de la fuente
+- **Título exacto**: Spain Rum Market Size & Outlook, 2030.
+- **Organismo / proveedor**: Grand View Research (Horizon Databook).
+- **Año de publicación**: 2023/2024 (Periodo cubierto: 2018-2030).
+- **URL pública**: [https://www.grandviewresearch.com/horizon/outlook/rum-market/spain](https://www.grandviewresearch.com/horizon/outlook/rum-market/spain)
+- **¿Es de pago?**: Sí (Suscripción Horizon).
+
+### Resumen ejecutivo
+España es el mercado de ron de más rápido crecimiento en Europa, proyectando alcanzar los 300 millones de USD en 2030. En 2022, el mercado generó 200 millones de USD, representando el 2,3% del mercado global de ron. El canal on-trade domina con el 50% de los ingresos y es el segmento de mayor crecimiento proyectado.
+
+### Extracción de datos
+- **Valor de mercado**: 0,2 mil millones de USD (2022); 0,3 mil millones de USD (2030 forecast).
+- **CAGR**: 6,7% (Periodo 2023-2030).
+- **Reparto On-trade vs Off-trade**: "On-trade was the largest segment with a revenue share of 50% in 2022".
+- **Fiabilidad**: **Media-Alta**. Basado en modelado estadístico y fuentes secundarias industriales; útil para proyecciones de valor en USD.
+
+---
+
+## 3. Fuente: Mercasa / MAPA (Fuente Primaria Nacional)
+### Metadatos de la fuente
+- **Título exacto**: Alimentación en España 2024 (Datos Básicos 15: Consumo y gasto en bebidas espirituosas).
+- **Organismo / proveedor**: Mercasa / Ministerio de Agricultura, Pesca y Alimentación (MAPA).
+- **Año de publicación**: 2024 (Datos de 2024).
+- **URL pública**: [https://www.mercasa.es/wp-content/uploads/2026/01/datos-basicos-15-consumo-gastos-bebida-espirituosa.pdf](https://www.mercasa.es/wp-content/uploads/2026/01/datos-basicos-15-consumo-gastos-bebida-espirituosa.pdf)
+- **¿Es de pago?**: No (Gratuito).
+
+### Resumen ejecutivo
+El consumo extradoméstico de ron en España en 2024 alcanzó los 3,49 millones de litros, con un valor de 159,72 millones de euros. Representa una penetración del 9,58% en la población de 15-75 años. El perfil del consumidor es mayoritariamente masculino y senior (60-75 años), con una tendencia a la baja en el volumen total de bebidas espirituosas (-3,7% sectorial).
+
+### Extracción de datos (Consumo Extradoméstico 2024)
+- **Volumen**: 3,49 millones de litros.
+- **Valor**: 159,72 millones de euros.
+- **Precio medio**: Gasto per cápita de 4,50 €; 8,47 consumiciones per cápita.
+- **Datos demográficos**: Hombres (+9,9% vs media), Mujeres (-9,8%); Senior 60-75 años (+70,5% vs media); Jóvenes 15-19 años (-52,5%).
+- **Fiabilidad**: **Alta**. Fuente oficial basada en el Panel de Consumo Alimentario del MAPA.
+
+---
+
+## 4. Fuente: Espirituosos de España (FEBE)
+### Metadatos de la fuente
+- **Título exacto**: Informe Socioeconómico del Sector de Bebidas Espirituosas 2024.
+- **Organismo / proveedor**: Espirituosos España (Federación Española de Bebidas Espirituosas).
+- **Año de publicación**: Junio 2025 (Datos de 2024).
+- **URL pública**: [https://www.espirituosos.es/Prensa/Comunicados-de-prensa/prensa-detalle.aspx?p=2421](https://www.espirituosos.es/Prensa/Comunicados-de-prensa/prensa-detalle.aspx?p=2421)
+- **¿Es de pago?**: No (Comunicado de prensa y resumen ejecutivo gratuitos).
+
+### Resumen ejecutivo
+El sector de espirituosos en España alcanzó los 180 millones de litros en 2024, una caída del 3,7% respecto al año anterior. El ron se mantiene como una de las categorías líderes. El canal hostelería (on-trade) representa 6 de cada 10 consumiciones y aporta el 30,5% de los ingresos de los locales de ocio.
+
+### Extracción de datos
+- **Volumen Sectorial**: 180 millones de litros (2024).
+- **Cuota Canal**: Hostelería (On-trade) 60%; Alimentación (Off-trade) 40%.
+- **Ranking Categorías**: Whisky (1º), Ginebra (2º), Licores (3º), Ron (4º).
+- **Fiabilidad**: **Alta**. Fuente sectorial oficial que consolida datos de todos los fabricantes en España.
+
+---
+
+## 5. Fuente: Retail Market Data (Precios y Segmentación 2024)
+### Metadatos de la fuente
+- **Título exacto**: Análisis de Precios de Venta al Público (PVP) - Ron en España.
+- **Organismo / proveedor**: Elaboración propia basada en datos de Carrefour, El Corte Inglés y Amazon España.
+- **Año de publicación**: 2024/2025.
+- **URL pública**: N/A (Consulta directa en e-commerce).
+- **¿Es de pago?**: No.
+
+### Extracción de datos (Precios 70 cl)
+- **Segmento Mainstream (Económico)**: 9,00 € - 12,00 € (Ej: Ron Negrita Añejo ~9,69 €).
+- **Segmento Premium (Estándar)**: 15,00 € - 20,00 € (Ej: Ron Barceló Añejo ~15,45 €; Flor de Caña 5 años ~15,20 €).
+- **Segmento Super-Premium / Ultra-Premium**: >25,00 € (Ej: Arehucas 12 años ~26,90 €; Santa Teresa 1796 ~65,90 €).
+- **Fiabilidad**: **Alta**. Precios reales de mercado verificados en los principales retailers de España.
+
+## 6. Fuente: Epsilon Technologies (Métricas de Marketing)
+### Metadatos de la fuente
+- **Título exacto**: Digital Attention Index (DAI) Gran Consumo 2024.
+- **Organismo / proveedor**: Epsilon Technologies.
+- **Año de publicación**: 2025 (Datos de 2024).
+- **URL pública**: [https://epsilontec.com/red-bull-mahou-ybarra-ron-barcelo-y-coca-cola-marcas-con-mayor-cuota-de-atencion-digital-en-gran-consumo-en-2024/](https://epsilontec.com/red-bull-mahou-ybarra-ron-barcelo-y-coca-cola-marcas-con-mayor-cuota-de-atencion-digital-en-gran-consumo-en-2024/)
+- **¿Es de pago?**: No (Resumen público).
+
+### Extracción de datos (Métricas Digitales)
+- **Top Marcas por Atención Digital**: Ron Barceló se sitúa entre las 5 marcas con mayor cuota de atención digital en todo el sector de Gran Consumo en España (2024).
+- **Fiabilidad**: **Media-Alta**. Especialista en analítica digital y redes sociales.
+
+---
+
+## Discrepancias y Recomendación de Prioridad
+1. **Volumen de Mercado**: Existe una diferencia entre los datos de Mercasa (3,49M litros extradomésticos) y los de FEBE (180M litros totales sectoriales). **Recomendación**: Usar FEBE para el volumen total nacional y Mercasa para el desglose demográfico y de consumo fuera del hogar.
+2. **Valor en USD vs EUR**: Grand View Research reporta en USD ($200M en 2022). **Recomendación**: Priorizar Mercasa/MAPA para valores en EUR por ser fuente local directa.
+
+## Pautas de Citación (APA)
+- **FEBE**: Espirituosos España. (2025). *Informe Socioeconómico del Sector de Bebidas Espirituosas 2024*. Recuperado de [URL]
+- **Mercasa**: Mercasa. (2024). *Alimentación en España 2024*. Recuperado de [URL]
+- **Cita sugerida**: "Según Espirituosos España (2025), el ron se mantiene como una de las cuatro categorías preferidas por el consumidor español, en un mercado que alcanzó los 180 millones de litros en 2024."
